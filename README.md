@@ -4,7 +4,7 @@ Lambda function configured with AWS Amplify, AWS API Gateway, DynamoDB and IAM f
 
 🔧 AWS Architecture & Services Used
 
-1. AWS Amplify → Hosted a React-based UI where users input numbers.
+1. AWS Amplify → Hosted UI where users input numbers.
 
 2. AWS Lambda  → Executed the core logic in Python to calculate power of a number given by base and exponent.
 
